@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/10/03 18:13:42.664,=C:\Users\Арсений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/04 01:57:56.040,D:\123\Unit1.pas=C:\Users\Арсений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/04 01:57:56.046,D:\123\Unit1.dfm=C:\Users\Арсений\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/10/04 01:58:00.538,D:\123\Project1.dproj=C:\Users\Арсений\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/10/04 15:08:50.052,D:\123\Calculator.dproj=D:\123\Project1.dproj</Transaction>
+    <Transaction>2015/10/04 15:08:59.060,D:\123\MainForm.dfm=D:\123\Unit1.dfm</Transaction>
+    <Transaction>2015/10/04 15:08:59.060,D:\123\MainForm.pas=D:\123\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
